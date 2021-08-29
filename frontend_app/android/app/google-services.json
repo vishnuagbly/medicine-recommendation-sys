@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573720171559",
+    "project_id": "medicine-recommendation",
+    "storage_bucket": "medicine-recommendation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573720171559:android:81edcafbe0827ad23fea02",
+        "android_client_info": {
+          "package_name": "com.vishnuworld.medicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573720171559-20oe7h479u5hkmk3gdjhmrdumhgp24n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishnuworld.medicine",
+            "certificate_hash": "9f9a501a359e572261229babc6ee4fa9fd73366e"
+          }
+        },
+        {
+          "client_id": "573720171559-r724i4he9tqt9lo67abhqpj2rdlajoks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCas6wxOpGeSBmFfAt7BSRbRPDY7oFgzOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573720171559-r724i4he9tqt9lo67abhqpj2rdlajoks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

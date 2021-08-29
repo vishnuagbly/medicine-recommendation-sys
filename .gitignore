@@ -1,0 +1,64 @@
+backend_app/__pycache__
+backend_app/.idea
+
+backend_app/.vscode
+backend_app/venv
+
+backend_app/assets/universal-sentence-encoder
+
+backend_app/assets/nltk_data
+backend_app/assets/medicine-service-account.json
+
+backend_app/azure_info.json
+
+backend_app/temp.py
+
+# Miscellaneous
+frontend_app/*.class
+frontend_app/*.log
+frontend_app/*.pyc
+frontend_app/*.swp
+frontend_app/.DS_Store
+frontend_app/.atom/
+frontend_app/.buildlog/
+frontend_app/.history
+frontend_app/.svn/
+
+# IntelliJ related
+frontend_app/*.iml
+frontend_app/*.ipr
+frontend_app/*.iws
+frontend_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+frontend_app/**/doc/api/
+frontend_app/**/ios/Flutter/.last_build_id
+frontend_app/.dart_tool/
+frontend_app/.flutter-plugins
+frontend_app/.flutter-plugins-dependencies
+frontend_app/.packages
+frontend_app/.pub-cache/
+frontend_app/.pub/
+frontend_app/build/
+
+# Web related
+frontend_app/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+frontend_app/app.*.symbols
+
+# Obfuscation related
+frontend_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+frontend_app/android/app/debug
+frontend_app/android/app/profile
+frontend_app/android/app/release
+
+# Local Netlify folder
+frontend_app/.netlify
